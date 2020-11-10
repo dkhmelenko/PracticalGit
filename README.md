@@ -1,2 +1,3 @@
 # PracticalGit
-Practical Git: for absolute beginners
+New text here
+Git: for absolute beginners
